@@ -39,7 +39,7 @@ This creates a **smooth parallax scrolling effect** — entirely in ASCII!
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/ascii-parallax-effect.git
+git clone https://github.com/Relizu/Console-Parallax-Effect.git
 cd ascii-parallax-effect
 ```
 ### 2. Run the effect
